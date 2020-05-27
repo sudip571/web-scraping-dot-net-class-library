@@ -5,9 +5,9 @@ It may not be working in future if amazon changes its web structure.
 ##### Result Displaying structure
 At the moment, it displays the results in two ways and  they both have different XPath.
 1) Only one product(result) in a single row as shown in image below
-![Amzon1](../../../../../../Desktop/amzon1.PNG)
+![Amzon1](Image/amzon1.PNG)
 2) Four products in a single row as shown in image below
-![Amazon22](../../../../../../Desktop/amazon22.PNG)
+![Amazon22](Image/amazon22.PNG)
  
 
 ##### Finding Searched Result
